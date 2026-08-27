@@ -1,0 +1,6 @@
+{
+  "name": "World Monitor Tactical HUD Dashboard",
+  "description": "Extensible futuristic Sci-Fi tactical HUD dashboard inspired by World Monitor with draggable and resizable windows, event-driven architecture, and customizable layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
